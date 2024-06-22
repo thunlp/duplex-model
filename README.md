@@ -1,13 +1,18 @@
+<div align="center">
+  <!-- <img src="figs/InfiniteBench.jpg" width="500px"/>
+  <br />
+  <br /> -->
+  
 # Beyond the Turn-Based Game: Duplex Models Enable Real-Time Conversations
 
-<!-- <p align="center">
+<p align="center">
   <a href="./README_ZH.md">中文版</a> •
   <a href="https://arxiv.org/abs/2402.13718">Paper</a> •
   <a href="https://huggingface.co/datasets/xinrongzhang2022/Duplex-UltraChat">Data</a> •
   <a href="https://huggingface.co/xinrongzhang2022/MiniCPM-duplex">Model</a>
 </p>
 
-</div> -->
+</div>
 ## Introduction
 We introduce the concept of DUPLEX MODEL that can receive inputs from users \textit{while} generating outputs and adjust dynamically to instant user feedback such as interruptions. Rather than turn-based, the duplex model could interact with users in real time. To demonstrate the performance of DUPLEX MODEL, we train an example model, minicpm-duplex, based on the MiniCPM-2.4B. The training data of DUPLEX MODEL is different from common training corpus, which are segmented into slices to learn real input/output in real-time scenarios.
 ## Try MiniCPM-duplex

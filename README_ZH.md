@@ -1,13 +1,19 @@
+<div align="center">
+  <!-- <img src="figs/InfiniteBench.jpg" width="500px"/>
+  <br />
+  <br /> -->
+  
 # Beyond the Turn-Based Game: Duplex Models Enable Real-Time Conversations
 
-<!-- <p align="center">
+<p align="center">
   <a href="./README.md">英文版</a> •
   <a href="https://arxiv.org/abs/2402.13718">论文</a> •
   <a href="https://huggingface.co/datasets/xinrongzhang2022/Duplex-UltraChat">数据</a> •
   <a href="https://huggingface.co/xinrongzhang2022/MiniCPM-duplex">模型</a>
 </p>
 
-</div> -->
+</div>
+
 ## 简介
 我们提出双工模型的概念，即一边接收用户输入一边生成输出，并可根据用户的及时反馈调整输出，如打断。不同于轮次对话机制，双工模型可以与用户实时交互。为展示双工模型的性能表现，我们基于MiniCPM-2.4B训练了一个实例模型，MiniCPM-duplex。双工模型的微调数据，不同于普通微调数据，每个输入输出被切成切片。
 ## MiniCPM-duplex试用
