@@ -67,6 +67,8 @@ coming soon
 Thanks to Xueheng Luo, Binhui Fan, Kaihuo Zhang, Ao Sun, Zhongwu Zhai, Yating Gong, Chaoqun He, Zhenning Dai, Yunqi Ba, Rongting Tang, Lei Zhang, Yingying Xiong, Tianmeng Pang, Chenzhe Jing, Ge Zhou, Siyuan Li, Yuge Tu, Yulin Chen, Ganqu Cui, Fengyuan Lu, Yudong Mei, Hanghao Wu, Suiyun Yang, Ran Yao, Ziming You, Jie Zhou, Jie Cai, Haifeng Xu, Yibin Li, Tianchi Cai, Xiang Long, Shi Yu, Renjie Lou, Yinxu Pan, JiaWen Liu, Hanqing Zhao, Peiqi Yu, Yishan Li, Bokai Xu, Yifan Luo, Siyuan Cai, Fuxi Zhu, Ran Yao, Tianyi Chen, Meixu Hu, Shi Yu, Ling Li, Zhenhua Zhang, Meiqi Fan, Yuqi Luo, Tianmeng Pang, Siyuan Liu, Bowen Ping.
 
 ## References
+<ol>
+<li>https://huggingface.co/openbmb/MiniCPM-2B-sft-bf16</li>
+<li>https://github.com/thunlp/UltraChat</li>
 
-[^1]: https://huggingface.co/openbmb/MiniCPM-2B-sft-bf16
-[^2]: https://github.com/thunlp/UltraChat?tab=readme-ov-file
+</ol>
