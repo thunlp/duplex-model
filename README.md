@@ -15,7 +15,7 @@
 </div>
 
 ## Introduction
-We introduce the concept of DUPLEX MODEL that can receive inputs from users \textit{while} generating outputs and adjust dynamically to instant user feedback such as interruptions. Rather than turn-based, the duplex model could interact with users in real time. To demonstrate the performance of DUPLEX MODEL, we train an example model, minicpm-duplex, based on the MiniCPM-2.4B. The training data of DUPLEX MODEL is different from common training corpus, which are segmented into slices to learn real input/output in real-time scenarios.
+We introduce the concept of DUPLEX MODEL that can receive inputs from users while generating outputs and adjust dynamically to instant user feedback such as interruptions. Rather than turn-based, the duplex model could interact with users in real time. To demonstrate the performance of DUPLEX MODEL, we train an example model, MiniCPM-duplex, based on the MiniCPM-2.4B. The training data of DUPLEX MODEL is different from common training corpus, which are segmented into slices to learn real input/output in real-time scenarios.
 
 ## Try MiniCPM-duplex
 Here is an instruction for building MiniCPM-duplex demo on your Mac book or linux server.
