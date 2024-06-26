@@ -1,13 +1,14 @@
 <div align="center">
-  <!-- <img src="figs/InfiniteBench.jpg" width="500px"/>
+  <img src="figs/traditional_lm_new.pdf" width="500px"/>
+  <img src="figs/duplex_lm_new.pdf" width="500px"/>
   <br />
-  <br /> -->
+  <br />
   
 # Beyond the Turn-Based Game: Duplex Models Enable Real-Time Conversations
 
 <p align="center">
   <a href="./README_ZH.md">中文版</a> •
-  <a href="https://arxiv.org/abs/2402.13718">Paper</a> •
+  <a href="https://arxiv.org/abs/2406.15718">Paper</a> •
   <a href="https://huggingface.co/datasets/xinrongzhang2022/Duplex-UltraChat">Data</a> •
   <a href="https://huggingface.co/xinrongzhang2022/MiniCPM-duplex">Model</a>
 </p>
@@ -59,7 +60,15 @@ If you are running the server on a different machine, you need to make sure your
 
 ## Citation
 ```bibtex
-coming soon
+@misc{zhang2024turnbasedgameenablingrealtime,
+      title={Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models}, 
+      author={Xinrong Zhang and Yingfa Chen and Shengding Hu and Xu Han and Zihang Xu and Yuanwei Xu and Weilin Zhao and Maosong Sun and Zhiyuan Liu},
+      year={2024},
+      eprint={2406.15718},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+      url={https://arxiv.org/abs/2406.15718}, 
+}
 ```
 
 ## Acknowledgement

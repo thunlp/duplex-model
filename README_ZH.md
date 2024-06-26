@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="./README.md">英文版</a> •
-  <a href="https://arxiv.org/abs/2402.13718">论文</a> •
+  <a href="https://arxiv.org/abs/2406.15718">论文</a> •
   <a href="https://huggingface.co/datasets/xinrongzhang2022/Duplex-UltraChat">数据</a> •
   <a href="https://huggingface.co/xinrongzhang2022/MiniCPM-duplex">模型</a>
 </p>
@@ -53,7 +53,15 @@
 
 ## 引用格式
 ```bibtex
-coming soon
+@misc{zhang2024turnbasedgameenablingrealtime,
+      title={Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models}, 
+      author={Xinrong Zhang and Yingfa Chen and Shengding Hu and Xu Han and Zihang Xu and Yuanwei Xu and Weilin Zhao and Maosong Sun and Zhiyuan Liu},
+      year={2024},
+      eprint={2406.15718},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+      url={https://arxiv.org/abs/2406.15718}, 
+}
 ```
 
 ## 致谢
