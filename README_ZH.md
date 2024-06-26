@@ -1,7 +1,10 @@
 <div align="center">
-  <!-- <img src="figs/InfiniteBench.jpg" width="500px"/>
+  <img src="figs/tranditional_llm.png" width="500px"/>
   <br />
-  <br /> -->
+  <br />
+  <img src="figs/duplex_model.png" width="500px"/>
+  <br />
+  <br />
   
 # Beyond the Turn-Based Game: Duplex Models Enable Real-Time Conversations
 
