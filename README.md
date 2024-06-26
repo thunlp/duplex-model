@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="figs/traditional_lm_new.pdf" width="500px"/>
-  <img src="figs/duplex_lm_new.pdf" width="500px"/>
+  <img src="figs/tranditional_llm.png" width="500px"/>
+  <br />
+  <br />
+  <img src="figs/duplex_model.png" width="500px"/>
   <br />
   <br />
   
